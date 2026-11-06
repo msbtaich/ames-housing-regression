@@ -3,3 +3,6 @@
 **Question:** What drives house sale prices, and how well can a linear model predict them?
 
 Part of the Model & Measure 365-day challenge.
+
+## Data
+- **Source:** Kaggle, "House Prices: Advanced Regression Techniques" (train.csv). Original dataset: Dean De Cock (2011), Journal of Statistics Education, Vol. 19, No. 3.
